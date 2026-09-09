@@ -71,6 +71,35 @@ F || F -> F
 
 
 
+>
+7>9 -> TRUE/FALSE
+<
+==
+<=
+>=
+!=
+
+
+&& -> cond1 && cond2 : Compulsory : 
+T && T -> T
+T && F -> F
+F && T -> F
+F && F -> F
+
+
+|| -> cond1 || cond2 : Optional : 
+T || T -> T
+T || F -> T
+F || T -> T
+F || F -> F
+
+
+
+! -> not
+! T  -> F
+! F -> T
+
+
 
 
 
