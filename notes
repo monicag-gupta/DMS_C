@@ -1,0 +1,27 @@
+WAP in C to subtract  2 numbers, take input from the user.
+
+File Extension:
+.c : C language (v Imp)
+.txt : notepad
+.cc : CPP
+.cpp : cpp
+.cs : csharp
+.java : Java
+.o : object
+.exe : executable
+
+
+file.c Compile file.o interpret file.exe
+
+file.c -> Debug -> file.exe
+
+
+%d  -> int
+%f -> float
+%c -> char
+
+
+
+
+
+
