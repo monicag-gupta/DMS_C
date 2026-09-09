@@ -22,6 +22,28 @@ file.c -> Debug -> file.exe
 
 
 
+WAP to input a number and print the multiplication table
+
+Example:
+Enter a number: 2
+
+Table:
+2 * 1 = 2
+2 * 2 = 4
+..
+2 * 10 = 20
+
+int x, i;
+print->Enter a number:
+scan -> x
+i=0
+print("%d * %d = %d\n",x,++i,(x*i))
+..10 times
+
+
+
+
+
 
 
 
